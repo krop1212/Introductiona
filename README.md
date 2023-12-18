@@ -4,4 +4,5 @@ This is a collaboration for cloud engineering with Azubi Africa.
 [Naomi kamweru](https://github.com/Kamwerunaomi).<br>
 [Abraham John](https://github.com/Jabrahamjohn).<br>
 [Massaquoi](https://github.com/Massaquoi716).<br>
-[Allan](https://github.com/krop1212).
+[Allan](https://github.com/krop1212).<br>
+[Uthman aduweyi](https://github.com/uthman007)
